@@ -1,4 +1,4 @@
-paho-mqtt-small-boards
-======================
+Talking Small
+=============
 
-Examples from the Paho Small Boards article
+Examples from the Talking Small – Beaglebone Black, Raspberry Pi, Paho, MQTT – article
