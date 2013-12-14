@@ -1,7 +1,7 @@
 Java files for the Raspberry Pi 
 ===============================
 
-These are files which accompany the "Thinking Small" article.
+These are files which accompany the "Talking Small" article.
 
 *mqttdemo* contains files used as examples in the article itself, plus an extended version of the main example which generates a test message when a button is pressed.
 
